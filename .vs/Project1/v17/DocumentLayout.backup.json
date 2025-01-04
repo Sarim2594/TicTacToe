@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sarim Khan\\source\\repos\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D87BC18A-4923-4EE6-9448-BA17F10EEF20}|Project1\\Project1.vcxproj|C:\\Users\\Sarim Khan\\source\\repos\\Project1\\Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D87BC18A-4923-4EE6-9448-BA17F10EEF20}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87BC18A-4923-4EE6-9448-BA17F10EEF20}|Project1\\Project1.vcxproj|C:\\Users\\Sarim Khan\\source\\repos\\Project1\\Project1\\Project.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D87BC18A-4923-4EE6-9448-BA17F10EEF20}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Project.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87BC18A-4923-4EE6-9448-BA17F10EEF20}|Project1\\Project1.vcxproj|C:\\Users\\Sarim Khan\\source\\repos\\Project1\\Project1\\PlayerScore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D87BC18A-4923-4EE6-9448-BA17F10EEF20}|Project1\\Project1.vcxproj|solutionrelative:Project1\\PlayerScore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87BC18A-4923-4EE6-9448-BA17F10EEF20}|Project1\\Project1.vcxproj|C:\\Users\\Sarim Khan\\source\\repos\\Project1\\Project1\\Ascii.inc||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D87BC18A-4923-4EE6-9448-BA17F10EEF20}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Ascii.inc||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerScore.txt",
+              "DocumentMoniker": "C:\\Users\\Sarim Khan\\source\\repos\\Project1\\Project1\\PlayerScore.txt",
+              "RelativeDocumentMoniker": "Project1\\PlayerScore.txt",
+              "ToolTip": "C:\\Users\\Sarim Khan\\source\\repos\\Project1\\Project1\\PlayerScore.txt",
+              "RelativeToolTip": "Project1\\PlayerScore.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-19T09:05:31.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ascii.inc",
+              "DocumentMoniker": "C:\\Users\\Sarim Khan\\source\\repos\\Project1\\Project1\\Ascii.inc",
+              "RelativeDocumentMoniker": "Project1\\Ascii.inc",
+              "ToolTip": "C:\\Users\\Sarim Khan\\source\\repos\\Project1\\Project1\\Ascii.inc",
+              "RelativeToolTip": "Project1\\Ascii.inc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-18T18:40:07.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Sarim Khan\\source\\repos\\Project1\\Project1\\Source.cpp",
+              "RelativeDocumentMoniker": "Project1\\Source.cpp",
+              "ToolTip": "C:\\Users\\Sarim Khan\\source\\repos\\Project1\\Project1\\Source.cpp",
+              "RelativeToolTip": "Project1\\Source.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T13:38:44.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project.asm",
+              "DocumentMoniker": "C:\\Users\\Sarim Khan\\source\\repos\\Project1\\Project1\\Project.asm",
+              "RelativeDocumentMoniker": "Project1\\Project.asm",
+              "ToolTip": "C:\\Users\\Sarim Khan\\source\\repos\\Project1\\Project1\\Project.asm",
+              "RelativeToolTip": "Project1\\Project.asm",
+              "ViewState": "AgIAAH0BAAAAAAAAAAAQwJgBAAADAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJZSURBVDhPdVI7SCNRFD1v8pt8N4mKKAprJSsWNoq9gmiprmAZENs02lpb2NhZ2VipjYWd2ARMtY2NYjVB4gezoNlgNpnJzNn7RiZEYS9c7v/zzn3q/Pyc0WgUjuOg0\u002BnAdd3/6lqOj4\u002BvLSwsnEITSVUul7sNgmQtgwLN7Xa765\u002BamsLr6\u002Bva3Nyc38QwzTgSiUSX4/EPW0vNpmkinU53eWRkBMPDwyeXl5c/dQN1e3vLeDwhE5zupICDrWTT7nYzMzP\u002Bdo\u002BPj6jVamvKsiwmk0k/aNs6yRFpf2rieZ6v60LNgV2v1/UTTH/VcDiJu7tvEkxBNwyFUqhW\u002B/DykkMkEkOrlcfz8xAymYws3oenp\u002B9\u002Bnjif2Wq1eHzsMBwmd3b\u002BslL5zR8/OtQwa15aqnNz8w/TafL0tML5\u002BQbzeZdnZ2UaGghNR0cGlAJOTkzc36dgWSFsbLSwt9fE\u002BnoH0WgYhmTv7w\u002BhVEqJTvFFPzawrDYzGXJsjHJS8uLC4fKy52\u002BkFLm4aLNYbHNigpRCjo6Sg4NkqfSLYlKmhhCLAfm8vK4PODgIYXbWxeGhi9VVolyOCLARTE4ChQJRLDqCEeTEceDh4YHT0x4LBZfNZpO7u46clezv/5gWi5FbWy63t12urHg\u002BXldXNrNZ8vq6QqUb2HYOqRQFVSWTlCBvYGDAk\u002BcZyGYh7OH93ZAYkMt5cinlx0yzBlWtVqVbVgAUBIUCqUk/r9ev7UDX9Pb2hu4VdPArB/5ABoWBT9t\u002Bg68FgR5Qb0wXBY00qZubG/kg6U/OXvrq77UbjQb\u002BARDqsk8FrLrHAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-10-05T06:43:35.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
